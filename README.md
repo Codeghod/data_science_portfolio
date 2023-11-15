@@ -24,7 +24,7 @@ In the House Price Prediction machine learning project, historical housing data 
 
 In the Heart Attack Prediction machine learning project, a dataset encompassing vital medical information is meticulously collected and preprocessed. Key features influencing heart attacks are selected, and a binary classification model, such as logistic regression or decision trees, is chosen. The dataset is divided into training and testing sets to train and validate the model, ensuring accuracy and reliability. Evaluation metrics such as accuracy, precision, and recall are employed to assess the model's performance. The ultimate goal is to deploy a robust predictive model capable of early detection, contributing to proactive healthcare interventions and potentially saving lives by forecasting the likelihood of a heart attack based on comprehensive health metrics.
 
-![Heart Attack](/assets/pr3.png)
+![Heart Attack](/assets/pr4.jpg)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
