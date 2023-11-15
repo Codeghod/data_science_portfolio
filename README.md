@@ -33,8 +33,13 @@ A large dataset of transactional data is painstakingly preprocessed and engineer
 
 ![Fraud Detection](/assets/pr5.png)
 
+### Customer Segmentation
 
-## Publications
+In the machine learning initiative focused on Customer Segmentation, a diverse dataset encompassing customer behavior, demographics, and transaction history undergoes meticulous preprocessing. Crucial features, including purchasing patterns and demographic details, are selected to inform the segmentation process. Utilizing clustering algorithms like K-means, the model undergoes training and validation to ensure its precision. The resultant clusters provide businesses with insights into distinct customer segments, enabling them to tailor marketing strategies effectively. The final phase involves deploying the segmentation model for real-time categorization of new customers, offering businesses the capability to enhance customer satisfaction through personalized services and targeted campaigns that align with the unique characteristics of each segment.
+
+![Fraud Detection](/assets/pr5.png)
+
+## Certifications
 1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
 2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
 3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
