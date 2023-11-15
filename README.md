@@ -40,7 +40,7 @@ In the machine learning initiative focused on Customer Segmentation, a diverse d
 ![Fraud Detection](/assets/pr7.jpg)
 
 ## Certifications
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+- Google Data Analytics Certificate. [https://doi.org/10.1007/978-3-030-71377-5_12](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVufKjycWCAxX_TqQEHa9fBFMQFnoECBIQAQ&url=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics&usg=AOvVaw2XvP900KPIKu1611eqZ7QH&opi=89978449)
+- Google Advanced Data Analytics Certificate, https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwihvePSycWCAxXXfKQEHYTiCOYQFnoECBgQAQ&url=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-advanced-data-analytics&usg=AOvVaw1CQVmVdr97feGNJ7d_TQCV&opi=89978449
 
 - [Data Science Blog](https://medium.com/@shawhin)
