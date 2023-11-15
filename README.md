@@ -43,4 +43,4 @@ In the machine learning initiative focused on Customer Segmentation, a diverse d
 - Google Data Analytics Certificate. [https://doi.org/10.1007/978-3-030-71377-5_12](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiVufKjycWCAxX_TqQEHa9fBFMQFnoECBIQAQ&url=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-data-analytics&usg=AOvVaw2XvP900KPIKu1611eqZ7QH&opi=89978449)
 - Google Advanced Data Analytics Certificate, https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwihvePSycWCAxXXfKQEHYTiCOYQFnoECBgQAQ&url=https%3A%2F%2Fwww.coursera.org%2Fprofessional-certificates%2Fgoogle-advanced-data-analytics&usg=AOvVaw1CQVmVdr97feGNJ7d_TQCV&opi=89978449
 
-- [Data Science Blog](https://medium.com/@shawhin)
+
