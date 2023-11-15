@@ -16,7 +16,7 @@
 ###  House Price Prediction
 In the House Price Prediction machine learning project, historical housing data was used to train a predictive model. Features such as square footage, number of bedrooms, location, and amenities were considered. The dataset was split into training and testing sets, and algorithms like linear regression, decision trees etc were employed for model training. The trained model was then validated using the test set to ensure accuracy. Once validated, the model was able to predict house prices based on input features. This project helped real estate stakeholders, buyers, and sellers make informed decisions by providing reliable estimates of property values.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![House Price Prediction](/assets/pr1.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
