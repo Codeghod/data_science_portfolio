@@ -14,14 +14,15 @@
 
 ## Projects
 ###  House Price Prediction
+
 In the House Price Prediction machine learning project, historical housing data was used to train a predictive model. Features such as square footage, number of bedrooms, location, and amenities were considered. The dataset was split into training and testing sets, and algorithms like linear regression, decision trees etc were employed for model training. The trained model was then validated using the test set to ensure accuracy. Once validated, the model was able to predict house prices based on input features. This project helped real estate stakeholders, buyers, and sellers make informed decisions by providing reliable estimates of property values.
 
 ![House Price Prediction](/assets/pr2.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Heart Attack Prediction
+
+In the Heart Attack Prediction machine learning project, a dataset encompassing vital medical information is meticulously collected and preprocessed. Key features influencing heart attacks are selected, and a binary classification model, such as logistic regression or decision trees, is chosen. The dataset is divided into training and testing sets to train and validate the model, ensuring accuracy and reliability. Evaluation metrics such as accuracy, precision, and recall are employed to assess the model's performance. The ultimate goal is to deploy a robust predictive model capable of early detection, contributing to proactive healthcare interventions and potentially saving lives by forecasting the likelihood of a heart attack based on comprehensive health metrics.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
